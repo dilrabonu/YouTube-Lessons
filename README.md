@@ -93,10 +93,8 @@ Share your daily videos, reflect your growth, and encourage others to join your 
 
 > _"Teaching is the best way to learn. Sharing is the best way to grow."_ 🌱
 
----
 
 Feel free to fork, clone, and share with attribution.
 
----
-**Created with ❤️ by [Dilrabo Khidirova](https://github.com/yourusername)**
+
 
